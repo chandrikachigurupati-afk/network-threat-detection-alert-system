@@ -1,0 +1,5 @@
+NETWORK THREAT DETECTION REPORT
+--------------------------------
+Total Packets Captured: 2164
+Total Threats Detected: 2
+Total Threat Score: 100
