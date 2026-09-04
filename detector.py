@@ -5,9 +5,9 @@ from datetime import datetime
 log_file = "alerts.log"
 report_file = "threat_report.txt"
 
-sender_email = "chandrikachigurupati@gmail.com"
-receiver_email = "chandrikachigurupati@gmail.com"
-app_password = "jwwg zafd uicm bvre"
+sender_email = "yourmail@gmail.com"
+receiver_email ="yourmail@gmail.com"
+app_password = "YOUR_PASSWORD_HERE"
 
 
 def log_alert(message):
